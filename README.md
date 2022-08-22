@@ -15,7 +15,7 @@ and now also working on personal projects
 <br/>
 
 ## About me
-🔭 I’m currently working [@Parexel](https://www.parexel.com/) <br>
+🔭 I’m currently working at [@Parexel](https://www.parexel.com/) <br>
 💬 Ask me about something <br>
 📫 How to reach me: ping me!<br>
 
