@@ -16,7 +16,6 @@ and now also working on personal projects
 
 ## About me
 🔭 I’m currently working [@Parexel](https://www.parexel.com/) <br>
-🌱 I’m currently learning [@React](https://reactjs.org/) <br>
 💬 Ask me about something <br>
 📫 How to reach me: ping me!<br>
 
