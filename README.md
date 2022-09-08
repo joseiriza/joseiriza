@@ -1,6 +1,5 @@
 ## Hi There! 👋 It's Me! [Jose](https://joseiriza.github.io/)
 I'm a fullstack developer at Parexel
-and now also working on personal projects
 
 ## Social Media
 <a href="https://twitter.com/Jose_Iriza">
